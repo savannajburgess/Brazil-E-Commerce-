@@ -12,41 +12,38 @@ This project, completed for a Database Management class in Spring 2024, involves
 
 <h2>Environments Used </h2>
 
-- <b>Macbook Air / VSCODE</b> (21H2)
+- <b>Macbook Air </b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 <h3> Snippets of code Queries with applicable questions<br/><h3>
+ <h4>Customers from which cities (list the top 10 cities) generated the most revenue? Are these 10 cities concentrated in a few states or are they widespread? (your query result should show this)
  <br />
-<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/480208f0-ab3a-4e3d-a176-78e18083a566"
- height="80%" width="80%" alt=""/>
+  <br/>
+<img src="https://github.com/user-attachments/assets/16dff08f-8e9c-4d31-9b9a-8e384a77730d">
+  <br/>
+  <h2> SQL result</h2>
+  <img width=400 src="https://github.com/user-attachments/assets/9f24951b-dff8-43c0-9d66-938e8ff3a604">
+
 <br />
 <br />
-<h3>Signed in users view  <br/><h3>
-<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/875f9c8f-9026-4c06-8097-4157e73d0794"/>
-<br />
-<br />
- <br />
-<h3>Each product has a card where you can write and read reviews  <br/><h3>
-<img src= "https://github.com/savannajburgess/FashionReview/assets/156722251/6bed7079-4ee0-46de-aac3-9fdfdc596eb4"/>
-<br />
-<br />
- <br />
-<h3>Only signed in users can post reviews  <br/><h3>
-<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/65d9a827-f867-46a1-997a-451cd2932e43"
-/>
-<br />
-<br />
-<h3>All users can filter through catalog  <br/><h3>
-<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/d4d6fe61-485a-4466-9ba9-5dc80b0b7adc"/>
+<h3>In the specified time duration, which week had the highest spike in ordering? How can you explain the spike?  <br/><h3>
+<img <img width="1000" alt="Screenshot 2024-09-17 at 5 02 10 PM" src="https://github.com/user-attachments/assets/b5048a9a-b6f1-4330-ad3e-e85c30baa649">
 <br />
 <br />
  <br />
-<h3>Sign out button only visible when signed in  <br/><h3>
-<img src="https://github.com/savannajburgess/FashionReview/assets/156722251/3214a3e4-326a-476a-83df-9e9a6c41f029"/>
+<h3> Sample Presentation Slides using Tableau visualization techniques <br/><h3>
+<img <img width="900" alt="Screenshot 2024-09-17 at 5 06 29 PM" src="https://github.com/user-attachments/assets/0d620a42-deca-45de-8992-6fbc2c22f3bb">
+<br />
+ <br/> 
+ <img width="900" alt="Screenshot 2024-09-17 at 5 06 15 PM" src="https://github.com/user-attachments/assets/2a419245-5571-4263-a85c-bda45b8bfb7b">
 <br />
 <br />
+<img width="900" alt="Screenshot 2024-09-17 at 5 06 38 PM" src="https://github.com/user-attachments/assets/56ccce16-bbb6-487b-9096-7dfdc0ff6475">
+<br />
+<br />
+
 </p>
 
 <!--
